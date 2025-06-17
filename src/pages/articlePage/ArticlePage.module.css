@@ -1,0 +1,34 @@
+.articleWrapper{
+    text-align: center;
+}
+.articleWrapper h1{
+    text-align: right;
+    margin-bottom: 20px;
+    margin-top: 50px;
+    font-size: 24px;
+}
+
+
+.articleWrapper img{
+    width: 50%;
+    margin-bottom: 10px;
+    margin-top: 30px;
+    
+}
+
+.articleWrapper p{
+    margin-top: 20px;
+    text-align: right;
+    color: #777;
+}
+
+.articleInfo{
+    display: flex;
+    justify-content: end;
+    margin-bottom: 10px;
+    flex-direction: row-reverse;
+}
+.articleInfo span{
+    margin-left: 10px;
+    color: #777;
+}

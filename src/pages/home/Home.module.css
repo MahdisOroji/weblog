@@ -1,0 +1,19 @@
+/* .homeWrapper a{
+    
+}  */
+
+.homeWrapper h2{
+    text-align: right;
+    margin-top: 60px;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+.articleList{
+    display: flex; 
+    justify-content: space-between;
+    flex-wrap: wrap;
+    direction: rtl;
+}
+.articles a{
+    width: 23%;
+}
